@@ -37,7 +37,7 @@ drwxr-xr-x   6 kbay  staff   192 May 21  2019 printsupport
 
 How to compress:
 tar cvfj qt_59.tar.bz2 QT/5.9
-split -b 40m -a 3 qt_59.tar.bz2 qt_59_
+split -b 60m -a 3 qt_59.tar.bz2 qt_59_
 
 Results: qt_59_aaa  & qt_59_aab
 
